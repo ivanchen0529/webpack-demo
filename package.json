@@ -21,6 +21,7 @@
     "less-loader": "^8.0.0",
     "mini-css-extract-plugin": "^1.4.0",
     "sass-loader": "^11.0.1",
+    "scss": "^0.2.4",
     "style-loader": "^2.0.0",
     "stylus": "^0.54.8",
     "stylus-loader": "^5.0.0",
